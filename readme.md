@@ -68,4 +68,4 @@ This project is licensed under the [MIT License](https://opensource.org/license/
 - This is a student project, please do not use it for commercial purposes.
 - Orgarnic restaurant web-app was built and is maintained by [macdogiahuy](https://github.com/macdogiahuy) and [l3cu0ng](https://github.com/L3Cu0ng).
 - For further information, please refer to [GitHub](https://github.com/macdogiahuy/Orgarnic-restaurant-web-application.git)
-- Contact me via email: [macdogiahuy](mailto: macdogiahuy123@gmail.com)
+- Contact me via email: (mailto: macdogiahuy123@gmail.com)
